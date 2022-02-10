@@ -1,22 +1,30 @@
 ---
-workshop_id:
+workshop_id: GAB_UCL_OCS_20220210_01
 topic: open-code
 title: Open Code Workshop
-instructors: []
-instructor_emails: []
-helpers: []
+instructors:
+  - Georgina Al-Badri
+  - TBC
+instructor_emails:
+  - georgina.al-badri@ucl.ac.uk
+  - TBC
+helpers:
+  - TBC
 start_times:
-  - 09|00
-setup_files: []
+  - 14|00
+  - 14|00
+setup_files:
+  - git
+  - shell
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: Virtual
+address: null
+country: GB
+latitude: null
+longitude: null
+start_date: null
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
